@@ -1,4 +1,3 @@
-# nisr_hackathon_dashboard
 Ending Hidden Hunger Dashboard
 A comprehensive Streamlit application for analyzing and visualizing malnutrition data in Rwanda to support evidence-based policy decisions and interventions.
 
