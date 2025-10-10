@@ -22,7 +22,7 @@ Collapse
 Copy
 1
 2
-git clone [https://github.com/yourusername/ending-hidden-hunger-dashboard.git](https://github.com/methodewan/nisr_hackathon_dashboard.git)
+git clone https://github.com/methodewan/nisr_hackathon_dashboard.git
 git clone 
 cd ending-hidden-hunger-dashboard
 Install the required packages:
