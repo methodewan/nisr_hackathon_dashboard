@@ -76,7 +76,7 @@ File Structure
 ending-hidden-hunger-dashboard/
 ├── app.py                 # Main application file
 ├── README.md              # This file
-├── requirements.txt       # Python dependencies
+
 └── data/                  # Data directory (optional)
     └── CFSVA2024_HH_data.csv  # Sample data file
 Configuration
@@ -97,8 +97,7 @@ This project is licensed under the MIT License.
 Contact
 For questions or support, please contact:
 
-Email: your.email@example.com
-GitHub: https://github.com/yourusername/ending-hidden-hunger-dashboard
+GitHub:git clone https://github.com/methodewan/nisr_hackathon_dashboard.git
 Acknowledgments
 Data source: CFSVA2024 Household Survey
 Built with Streamlit
