@@ -55,11 +55,11 @@ The application can work with both real CSV data and mock data for demonstration
 
 File Structure
 
-ending-hidden-hunger-dashboard/
+nisr_hackathon_dashboard/
 ├── app.py                 # Main application file
 ├── README.md              # This file
-
-└── csvfile    # zip dataset file
+├──csvfile.zip             # dataset file
+└── proof.zip              # proof fife
 Configuration
 The application can be configured by modifying the following in app.py:
 
