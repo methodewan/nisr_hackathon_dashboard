@@ -22,25 +22,8 @@ Copy
 1
 2
 git clone https://github.com/methodewan/nisr_hackathon_dashboard.git
-git clone 
-cd ending-hidden-hunger-dashboard
-Install the required packages:
-bash
 
-Line Wrapping
-
-Collapse
-Copy
-1
-pip install -r requirements.txt
 Run the application:
-bash
-
-Line Wrapping
-
-Collapse
-Copy
-1
 streamlit run app.py
 The application will be available at http://localhost:8501 by default.
 
@@ -76,8 +59,7 @@ ending-hidden-hunger-dashboard/
 ├── app.py                 # Main application file
 ├── README.md              # This file
 
-└── data/                  # Data directory (optional)
-    └── CFSVA2024_HH_data.csv  # Sample data file
+└── csvfile    # zip dataset file
 Configuration
 The application can be configured by modifying the following in app.py:
 
